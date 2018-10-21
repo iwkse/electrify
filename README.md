@@ -1,0 +1,3 @@
+# Electrify
+
+Arduino IDE
